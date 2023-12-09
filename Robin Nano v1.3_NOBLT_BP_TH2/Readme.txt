@@ -1,5 +1,11 @@
 Compilacion Main MKS Robin Nano v1.3 con TFT35v1
 
+Version BP = Bucket Purge  --> tiene ampliado el margen de X a 260mm para realizar la purga cambio material a 259mm
+Version TH2 = termistor hotend 2 --->  cambiando el conector de th1 a th2 para los casos que se ha dañado el sensor de temperatura de hotend, y puedan utilizar el segundo sensor como si fuera el uno. 
+NOBLT = para sistemas sin Bltouch.
+ZInvert = eje z Invertido, para quienes tiene problema con eje z en firmware.
+
+
 Opciones habilitadas:
 
 
